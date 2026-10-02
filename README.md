@@ -14,7 +14,7 @@
 
 </div>
 
-I'm a final-year BSc Mathematics and Computer Science student at the University of South Africa (UNISA), building cross-platform and desktop applications with C#, .NET MAUI, C++, and Qt. I'm passionate about solving problems through code and turning ideas into working, well-structured software — from receipt-generation apps to desktop tools with real GUIs.
+I am a building cross-platform and desktop applications with C#, .NET MAUI, C++, and Qt. I'm passionate about solving problems through code and turning ideas into working, well-structured software — from receipt-generation apps to desktop tools with real GUIs.
 
 ---
 
@@ -71,26 +71,6 @@ Academic desktop applications with graphical interfaces, event handling, file pr
 
 ---
 
-## 🎓 Education & Certifications
-
-**BSc Mathematics and Computer Science** — University of South Africa (UNISA) · *Expected Dec 2028*
-Focus areas: programming, data structures and algorithms, computer systems, applied mathematics, calculus.
-
-- Advanced Diploma in Data Science with R — Alison
-- Introduction to Basic Styling in Website Development — Alison
-- Data Science — Udemy (in progress)
-
----
-
-## 💼 Experience
-
-**Ride Operator**, Bumper Cars — Cape Town *(Dec 2022 – Present)*
-Operate ride equipment in a fast-paced, safety-focused environment; communicate safety instructions clearly and coordinate with the team during high-volume periods.
-
-**Sales Representative**, Eventus South Africa — Cape Town *(Apr 2023 – Aug 2023)*
-Promoted products and services to prospective customers, using communication and negotiation skills to address objections and support sales targets.
-
----
 
 ## 🌍 Languages
 
