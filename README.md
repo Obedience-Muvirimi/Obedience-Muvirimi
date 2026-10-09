@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Obedience Muvirimi
 
-### Computer Science Student · Junior Software Developer · Data Analyst
+### WeThinkCode_ Student · Junior Software Developer · Data Scientist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=41CD52&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+C%23+%26+.NET+MAUI;Learning+something+new+every+day;Aspiring+Data+Scientist;Currently+interviewing+at+WeThinkCode_" alt="Typing SVG" />
 
@@ -22,7 +22,7 @@ I am a building cross-platform and desktop applications with C#, .NET MAUI, C++,
 
 It started in 2020, my matric year, with a rough first attempt at HTML — genuinely bad, but it hooked me. In 2021 I picked up Java and built my first real project, **Stacked TicTacToe**, as a varsity assignment. I spent the next two years deepening my Java skills before taking a gap year in 2023.
 
-In 2024 I enrolled at UNISA and started learning C#, which is now my main language for application development. Alongside my degree, I've been building my skills through Alison courses (Data Science with R, web styling) and a Udemy Data Science track I'm still chipping away at. Most recently, I went through the interview stage with **WeThinkCode_** and I'm currently waiting on next steps — excited about where that could go.
+In 2024 I enrolled at UNISA and started learning C#, which is now my main language for application development. Alongside my degree, I've been building my skills through Alison courses (Data Science with R, web styling) and a Udemy Data Science track I'm still chipping away at. excited about where that could go.Currently pursuing an Occupational Certificate in Software Engineering at WeThinkCode, with a focus on enhancing technical expertise in computer software engineering
 
 ---
 
@@ -65,7 +65,7 @@ A multi-platform app for creating, storing and sharing professional business rec
 `Java`
 My first real project — a Stacked TicTacToe game built in Java with clean game logic and easy-to-follow functions.
 
-### C++ / Qt Desktop Applications
+### C++ / Qt Console Applications
 `C++ · Qt · XML`
 Academic desktop applications with graphical interfaces, event handling, file processing and object-oriented design — packaged to be independently runnable and documented.
 
