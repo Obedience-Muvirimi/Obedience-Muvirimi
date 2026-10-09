@@ -7,10 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=41CD52&center=true&vCenter=true&width=600&lines=Building+cross-platform+apps+with+C%23+%26+.NET+MAUI;Learning+something+new+every+day;Aspiring+Data+Scientist;Currently+interviewing+at+WeThinkCode_" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obedience-muvirimi-a2054128b)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obediencejima1@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:obeyjima14@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Obedience-Muvirimi&style=for-the-badge&color=41CD52)](https://github.com/Obedience-Muvirimi)
 
-📍 Cape Town, Western Cape, South Africa
+📍 Johannesburg, Gauteng, South Africa
 
 </div>
 
